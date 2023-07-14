@@ -7,5 +7,7 @@ To restart the timer simply refresh the page
 
 You will need to click the "Show timer" button to activate the countdown once you run the project
 
+
 -- HOW TO RUN --
-to run the project simply just click on the "index.html" file
+
+to run the project simply just click on the "index.html" file and run it
