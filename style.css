@@ -1,0 +1,40 @@
+* {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    color: white;
+}
+
+*::selection {
+    background-color: red;
+}
+
+#cdt::selection, button::selection {
+    background: none;
+}
+
+h1::selection {
+    background-color: rgba(255, 0, 0, 0.527);
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+button {
+    background-color: gray;
+    border-radius: 10px;
+    font-size: large;
+    width: 15%;
+}
+
+#note {
+    font-size: small;
+}
