@@ -7,10 +7,7 @@ Pretty self explanatory...
 
 - To restart the timer simply refresh the page
 
-- You will need to click the "Show timer" button to activate the countdown once you run the project
-
-* To run the project simply just enter the "Countdown to 3 AM" folder and click on the "index.html" file inside it
-
 © Created by Dronto
-
 Profile: https://github.com/Drontooo
+
+!!! Please do not copy without permission from the owner
